@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <!-- Main branch -->
+  <path d="M 60 520 C 180 460, 320 380, 460 300 C 580 230, 700 180, 840 140"
+        stroke="#4A5836" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <!-- Secondary branch off main -->
+  <path d="M 320 380 C 340 340, 370 290, 410 260"
+        stroke="#4A5836" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <!-- Tertiary branch -->
+  <path d="M 500 310 C 520 260, 560 220, 590 190"
+        stroke="#4A5836" stroke-width="1.4" stroke-linecap="round" fill="none" opacity="0.5"/>
+  <!-- Fine twig -->
+  <path d="M 640 220 C 660 195, 690 175, 720 165"
+        stroke="#4A5836" stroke-width="1" stroke-linecap="round" fill="none" opacity="0.45"/>
+  <!-- Lower secondary branch -->
+  <path d="M 200 450 C 220 400, 260 370, 300 350"
+        stroke="#4A5836" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.55"/>
+
+  <!-- Leaves along main branch -->
+  <!-- Leaf 1 -->
+  <ellipse cx="160" cy="475" rx="18" ry="9" fill="#7C8A5E" opacity="0.55" transform="rotate(-35 160 475)"/>
+  <!-- Leaf 2 -->
+  <ellipse cx="240" cy="430" rx="22" ry="10" fill="#4A5836" opacity="0.45" transform="rotate(-40 240 430)"/>
+  <!-- Leaf 3 -->
+  <ellipse cx="350" cy="365" rx="20" ry="9" fill="#7C8A5E" opacity="0.5" transform="rotate(-45 350 365)"/>
+  <!-- Leaf 4 -->
+  <ellipse cx="430" cy="312" rx="17" ry="8" fill="#4A5836" opacity="0.4" transform="rotate(-50 430 312)"/>
+  <!-- Leaf 5 -->
+  <ellipse cx="520" cy="268" rx="19" ry="8" fill="#7C8A5E" opacity="0.45" transform="rotate(-48 520 268)"/>
+  <!-- Leaf 6 -->
+  <ellipse cx="610" cy="228" rx="16" ry="7" fill="#4A5836" opacity="0.4" transform="rotate(-42 610 228)"/>
+  <!-- Leaf 7 -->
+  <ellipse cx="700" cy="192" rx="15" ry="7" fill="#7C8A5E" opacity="0.38" transform="rotate(-38 700 192)"/>
+  <!-- Leaf 8 -->
+  <ellipse cx="780" cy="162" rx="13" ry="6" fill="#4A5836" opacity="0.32" transform="rotate(-35 780 162)"/>
+
+  <!-- Leaves on secondary branches -->
+  <ellipse cx="355" cy="348" rx="14" ry="6" fill="#7C8A5E" opacity="0.45" transform="rotate(-60 355 348)"/>
+  <ellipse cx="390" cy="268" rx="16" ry="7" fill="#4A5836" opacity="0.4" transform="rotate(-55 390 268)"/>
+  <ellipse cx="545" cy="222" rx="13" ry="6" fill="#7C8A5E" opacity="0.38" transform="rotate(-50 545 222)"/>
+  <ellipse cx="575" cy="195" rx="12" ry="5" fill="#4A5836" opacity="0.35" transform="rotate(-45 575 195)"/>
+  <ellipse cx="230" cy="408" rx="15" ry="6" fill="#7C8A5E" opacity="0.42" transform="rotate(-55 230 408)"/>
+  <ellipse cx="270" cy="370" rx="13" ry="6" fill="#4A5836" opacity="0.38" transform="rotate(-50 270 370)"/>
+</svg>
